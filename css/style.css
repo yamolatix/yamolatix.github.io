@@ -8,7 +8,7 @@
 
 body {
   font-family: "Karla", Arial, sans-serif;
-  line-height: 1.8;
+  line-height: 1.6;
   font-size: 20px;
   background: #252127;
   font-weight: 300;
@@ -53,7 +53,7 @@ a:active {
 
 p,
 span {
-  margin-bottom: 1.5em;
+  margin-bottom: 0.7em;
   font-size: 18px;
   color: white;
   font-weight: 300;
@@ -63,6 +63,7 @@ span {
 span {
   font-size: 18px;
   color: rgba(211, 207, 207, 0.8);
+  margin-bottom: 0.7em;
 }
 
 h1,
@@ -857,7 +858,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   color: rgba(255, 255, 255, 0.8);
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-size: 12px;
+  font-size: 18px;
   display: block;
   margin-bottom: 20px;
 }
@@ -1253,13 +1254,13 @@ input[type="text"] {
 }
 
 iframe {
-  width:600px; 
-  height:300px
+  width: 600px;
+  height: 300px;
 }
 
 @media screen and (max-width: 992px) {
   iframe {
-    width:400px; 
-    height:250px
+    width: 400px;
+    height: 250px
   }
 }
