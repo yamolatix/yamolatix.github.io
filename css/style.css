@@ -577,11 +577,11 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   }
 }
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
   header .fh5co-navbar-brand .fh5co-social-icon {
     display: none;
   }
-}
+} */
 
 .fh5co-nav-toggle {
   cursor: pointer;
